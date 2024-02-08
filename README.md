@@ -5,7 +5,7 @@
 - All opensource data can be found in the folder ***opensource-data***. 
 
 - A well complied database IoTDB is given in the folder ***apache-iotdb-0.13.3-all-bin***, which is built from the [source code](https://github.com/apache/iotdb/tree/research/indb-ts-cluster).
-- The main code of in-database K-shape and in-database Mediod Shape can be found in [KShapeExecutor](https://github.com/apache/iotdb/blob/research/outlier/server/src/main/java/org/apache/iotdb/db/query/executor/KShapeExecutor.java) and [KShapeMExecutor](https://github.com/apache/iotdb/blob/research/outlier/server/src/main/java/org/apache/iotdb/db/query/executor/KShapeMExecutor.java).
+- The main code of in-database K-shape and in-database Mediod Shape can be found in [KshapeExecutor](https://github.com/apache/iotdb/blob/research/indb-ts-cluster/server/src/main/java/org/apache/iotdb/db/query/executor/KshapeExecutor.java) and [KshapeMExecutor](https://github.com/apache/iotdb/blob/research/indb-ts-cluster/server/src/main/java/org/apache/iotdb/db/query/executor/KshapeMExecutor.java).
 
 ## Steps to Run
 
